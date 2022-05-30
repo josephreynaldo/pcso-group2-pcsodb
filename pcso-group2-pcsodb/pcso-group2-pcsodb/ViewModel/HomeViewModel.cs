@@ -21,4 +21,30 @@ public partial class HomeViewModel : BaseViewModel
         Shell.Current.GoToAsync("//CharitySector");
     }
 
+    [ICommand]
+    public void GoToAdministrative()
+    {
+        Shell.Current.GoToAsync("//AdministrativeSector");
+    }
+
+    [ICommand]
+    public void GoToBOS()
+    {
+        Shell.Current.GoToAsync("//BOSSector");
+    }
+
+    [ICommand]
+    public void GoToManagement()
+    {
+        Shell.Current.GoToAsync("//ManagementSector");
+    }
+
+
+    [ICommand]
+    public void GoToGaming()
+    {
+        Shell.Current.GoToAsync("//GamingSector");
+    }
+
+
 }

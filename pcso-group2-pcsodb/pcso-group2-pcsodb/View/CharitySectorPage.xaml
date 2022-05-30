@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="pcso_group2_pcsodb.View.CharitySectorPage"
              Routing.Route="CharitySector"
-             Title="CharitySectorPage">
+             Title="CharitySector">
     <StackLayout>
         <Label Text="Charity Sector"
                 VerticalOptions="Center" 

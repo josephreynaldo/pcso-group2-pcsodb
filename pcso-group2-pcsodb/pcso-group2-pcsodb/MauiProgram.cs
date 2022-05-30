@@ -39,9 +39,19 @@ public static class MauiProgram
         builder.Services.AddSingleton<CharitySectorViewModel>();
         builder.Services.AddSingleton<CharitySectorPage>();
 
+        builder.Services.AddSingleton<AdministrativeSectorViewModel>();
+        builder.Services.AddSingleton<AdministrativeSectorPage>();
 
-      
-        
+        builder.Services.AddSingleton<BOSSectorViewModel>();
+        builder.Services.AddSingleton<BOSSectorPage>();
+
+        builder.Services.AddSingleton<ManagementSectorViewModel>();
+        builder.Services.AddSingleton<ManagementSectorPage>();
+
+        builder.Services.AddSingleton<GamingSectorViewModel>();
+        builder.Services.AddSingleton<GamingSectorPage>();
+
+
         return builder.Build();
 	}
 }

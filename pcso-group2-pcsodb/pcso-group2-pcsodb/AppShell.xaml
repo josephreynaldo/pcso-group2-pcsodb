@@ -30,5 +30,56 @@
 
     </TabBar>
 
+    <TabBar
+        Shell.TabBarIsVisible="False"
+        Route="AdministrativeSector">
+        <Tab
+            Title="Administrative"
+            Icon="home.png">
+            <ShellContent 
+                ContentTemplate="{DataTemplate views:AdministrativeSectorPage}"/>
+        </Tab>
+
+    </TabBar>
+
+
+    <TabBar
+        Shell.TabBarIsVisible="False"
+        Route="BOSSector">
+        <Tab
+            Title="BOS"
+            Icon="home.png">
+            <ShellContent 
+                ContentTemplate="{DataTemplate views:BOSSectorPage}"/>
+        </Tab>
+
+    </TabBar>
+
+    <TabBar
+        Shell.TabBarIsVisible="False"
+        Route="ManagementSector">
+        <Tab
+            Title="Management"
+            Icon="home.png">
+            <ShellContent 
+                ContentTemplate="{DataTemplate views:ManagementSectorPage}"/>
+        </Tab>
+
+    </TabBar>
+
+    <TabBar
+        Shell.TabBarIsVisible="False"
+        Route="GamingSector">
+        <Tab
+            Title="Gaming"
+            Icon="home.png">
+            <ShellContent 
+                ContentTemplate="{DataTemplate views:GamingSectorPage}"/>
+        </Tab>
+
+    </TabBar>
+    
+    
+
 
 </Shell>

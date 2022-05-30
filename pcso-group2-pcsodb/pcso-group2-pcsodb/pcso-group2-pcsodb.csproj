@@ -57,6 +57,33 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Compile Update="View\GamingSectorPage.xaml.cs">
+	    <DependentUpon>GamingSectorPage.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="View\ManagementSectorPage.xaml.cs">
+	    <DependentUpon>ManagementSectorPage.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="View\BOSSectorPage.xaml.cs">
+	    <DependentUpon>BOSSectorPage.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="View\AdministrativeSectorPage.xaml.cs">
+	    <DependentUpon>AdministrativeSectorPage.xaml</DependentUpon>
+	  </Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="View\GamingSectorPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="View\ManagementSectorPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="View\BOSSectorPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="View\AdministrativeSectorPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="View\CharitySectorPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

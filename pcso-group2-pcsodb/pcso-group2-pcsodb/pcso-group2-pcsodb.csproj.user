@@ -8,6 +8,18 @@
     <DefaultDevice>pixel_5_-_api_30</DefaultDevice>
   </PropertyGroup>
   <ItemGroup>
+    <MauiXaml Update="View\GamingSectorPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="View\ManagementSectorPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="View\BOSSectorPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="View\AdministrativeSectorPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="View\CharitySectorPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>

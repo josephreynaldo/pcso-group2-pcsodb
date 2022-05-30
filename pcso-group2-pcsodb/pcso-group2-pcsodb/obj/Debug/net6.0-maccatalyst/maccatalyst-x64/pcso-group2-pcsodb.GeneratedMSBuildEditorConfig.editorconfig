@@ -39,14 +39,38 @@ build_metadata.AdditionalFiles.ManifestResourceName = pcso_group2_pcsodb.Resourc
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
+[C:/Users/PCSO/source/repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/View/AdministrativeSectorPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = pcso_group2_pcsodb.View.AdministrativeSectorPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\AdministrativeSectorPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\AdministrativeSectorPage.xaml
+
+[C:/Users/PCSO/source/repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/View/BOSSectorPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = pcso_group2_pcsodb.View.BOSSectorPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\BOSSectorPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\BOSSectorPage.xaml
+
 [C:/Users/PCSO/source/repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/View/CharitySectorPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = pcso_group2_pcsodb.View.CharitySectorPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\CharitySectorPage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\CharitySectorPage.xaml
 
+[C:/Users/PCSO/source/repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/View/GamingSectorPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = pcso_group2_pcsodb.View.GamingSectorPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\GamingSectorPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\GamingSectorPage.xaml
+
 [C:/Users/PCSO/source/repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/View/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = pcso_group2_pcsodb.View.HomePage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\HomePage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\HomePage.xaml
+
+[C:/Users/PCSO/source/repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/View/ManagementSectorPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = pcso_group2_pcsodb.View.ManagementSectorPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\ManagementSectorPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\ManagementSectorPage.xaml
