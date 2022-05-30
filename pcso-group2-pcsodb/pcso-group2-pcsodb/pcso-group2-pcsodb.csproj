@@ -16,7 +16,7 @@
 
 		<!-- App Identifier -->
 		<ApplicationId>com.companyname.pcso_group2_pcsodb</ApplicationId>
-		<ApplicationIdGuid>F163F5D5-5C88-42D3-96A0-E2C730D2A1FD</ApplicationIdGuid>
+		<ApplicationIdGuid>57A9A04B-E7A6-4BA0-BA34-924BA82133D4</ApplicationIdGuid>
 
 		<!-- Versions -->
 		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
@@ -46,6 +46,14 @@
 
 		<!-- Raw Assets (also remove the "Resources\Raw" prefix) -->
 		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="CommunityToolkit.Maui" Version="1.0.0" />
+	  <PackageReference Include="CommunityToolkit.Maui.Core" Version="1.0.0" />
+	  <PackageReference Include="CommunityToolkit.Maui.Markup" Version="1.0.0" />
+	  <PackageReference Include="CommunityToolkit.Mvvm" Version="7.1.2" />
+	  <PackageReference Include="Microsoft.AspNetCore.SignalR.Client" Version="6.0.5" />
 	</ItemGroup>
 
 </Project>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pcso-group2-pcsodb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("pcso-group2-pcsodb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pcso-group2-pcsodb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
