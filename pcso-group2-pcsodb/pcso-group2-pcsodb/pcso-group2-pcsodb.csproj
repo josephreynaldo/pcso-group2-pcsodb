@@ -56,4 +56,10 @@
 	  <PackageReference Include="Microsoft.AspNetCore.SignalR.Client" Version="6.0.5" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <MauiXaml Update="View\HomePage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	</ItemGroup>
+
 </Project>
