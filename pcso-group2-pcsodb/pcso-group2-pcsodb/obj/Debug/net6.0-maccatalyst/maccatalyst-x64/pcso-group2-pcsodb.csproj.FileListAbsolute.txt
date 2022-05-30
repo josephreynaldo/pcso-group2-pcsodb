@@ -35,9 +35,6 @@ C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcs
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\pcso-group2-pcsodb.AssemblyInfoInputs.cache
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\pcso-group2-pcsodb.AssemblyInfo.cs
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\pcso-group2-pcsodb.csproj.CoreCompileInputs.cache
-C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\pcso-group2-pcsodb.dll
-C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\refint\pcso-group2-pcsodb.dll
-C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\pcso-group2-pcsodb.pdb
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\pcso-group2-pcsodb.runtimeconfig.json
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\pcso-group2-pcsodb.dll
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\pcso-group2-pcsodb.pdb
@@ -264,5 +261,8 @@ C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcs
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\XamlC.stamp
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\pcso-group2-pcsodb.csproj.CopyComplete
+C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\pcso-group2-pcsodb.dll
+C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\refint\pcso-group2-pcsodb.dll
+C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\pcso-group2-pcsodb.pdb
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\pcso-group2-pcsodb.genruntimeconfig.cache
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\ref\pcso-group2-pcsodb.dll

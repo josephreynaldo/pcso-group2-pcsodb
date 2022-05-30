@@ -94,8 +94,6 @@ C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcs
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-android\pcso-group2-pcsodb.AssemblyInfoInputs.cache
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-android\pcso-group2-pcsodb.AssemblyInfo.cs
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-android\pcso-group2-pcsodb.csproj.CoreCompileInputs.cache
-C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-android\pcso-group2-pcsodb.dll
-C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-android\pcso-group2-pcsodb.pdb
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-android\pcso-group2-pcsodb.runtimeconfig.json
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-android\pcso-group2-pcsodb.dll
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-android\pcso-group2-pcsodb.pdb
@@ -105,6 +103,8 @@ C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcs
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-android\com.companyname.pcso_group2_pcsodb-Signed.apk
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-android\com.companyname.pcso_group2_pcsodb-Signed.apk.idsig
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-android\XamlC.stamp
+C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-android\pcso-group2-pcsodb.dll
+C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-android\pcso-group2-pcsodb.pdb
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-android\pcso-group2-pcsodb.genruntimeconfig.cache
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-android\pcso-group2-pcsodb.runtimeconfig.json.bin
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\obj\Debug\net6.0-android\android\bin\com.companyname.pcso_group2_pcsodb.apk

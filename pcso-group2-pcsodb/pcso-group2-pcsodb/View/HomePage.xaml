@@ -10,16 +10,18 @@
                 VerticalOptions="Center" 
                 HorizontalOptions="Center" />
         <Label></Label>
-
+        
+        
         <Button
+                Command="{Binding GoToCharityCommand}"
                 FontSize="30"
-                Text="Charity"
-                 
+                Text="Charity"                 
                 VerticalOptions="Center" 
                 HorizontalOptions="FillAndExpand" />
         <Label></Label>
         
         <Button
+            Command="{Binding GoToAdministrativeCommand}"
                 FontSize="30"
                 Text="Administrative"
                 VerticalOptions="Center" 
@@ -27,6 +29,7 @@
         <Label></Label>
 
         <Button
+               Command="{Binding GoToBOSCommand}"
                 FontSize="30"
                 Text="BOS"
                 VerticalOptions="Center" 
@@ -34,6 +37,7 @@
         <Label></Label>
 
         <Button
+            Command="{Binding GoToManagementCommand}"
                 FontSize="30"
                 Text="Management"
                 VerticalOptions="Center" 
@@ -41,6 +45,7 @@
         <Label></Label>
 
         <Button
+            Command="{Binding GoToGamingCommand}"
                 FontSize="30"
                 Text="Gaming"
                 VerticalOptions="Center" 

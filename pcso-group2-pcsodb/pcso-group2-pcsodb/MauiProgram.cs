@@ -35,6 +35,13 @@ public static class MauiProgram
         builder.Services.AddSingleton<HomeViewModel>();
         builder.Services.AddSingleton<HomePage>();
 
+
+        builder.Services.AddSingleton<CharitySectorViewModel>();
+        builder.Services.AddSingleton<CharitySectorPage>();
+
+
+      
+        
         return builder.Build();
 	}
 }
