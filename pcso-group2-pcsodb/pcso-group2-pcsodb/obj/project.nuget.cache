@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zPlTJnpG9LMcDJ2gfSceHmZCVaU/0cALs3c96D/I9ZfRRqdQxfZrjrqi5OZCGq5qL37hyXRumzwdyV2sVuyWwg==",
+  "dgSpecHash": "P5WV0RTCbHbL+thdLhUkhDKTUK/T72eidokj+2rJcnnc/Lzgqxeu6VYwWuyDfQ6lfqXjvTQxYnAgTNG1nk0cgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jperalta\\source\\repos\\pcso-group2-pcsodb\\pcso-group2-pcsodb\\pcso-group2-pcsodb\\pcso-group2-pcsodb.csproj",
+  "projectFilePath": "C:\\Users\\jperalta\\Source\\Repos\\pcso-group2-pcsodb\\pcso-group2-pcsodb\\pcso-group2-pcsodb\\pcso-group2-pcsodb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jperalta\\.nuget\\packages\\communitytoolkit.maui\\1.0.0\\communitytoolkit.maui.1.0.0.nupkg.sha512",
     "C:\\Users\\jperalta\\.nuget\\packages\\communitytoolkit.maui.core\\1.0.0\\communitytoolkit.maui.core.1.0.0.nupkg.sha512",
