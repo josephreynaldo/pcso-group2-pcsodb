@@ -51,6 +51,18 @@ public static class MauiProgram
         builder.Services.AddSingleton<GamingSectorViewModel>();
         builder.Services.AddSingleton<GamingSectorPage>();
 
+        builder.Services.AddSingleton<ManagementDeptAViewModel>();
+        builder.Services.AddSingleton<ManagementDeptA>();
+
+        builder.Services.AddSingleton<ManagementDeptBViewModel>();
+        builder.Services.AddSingleton<ManagementDeptB>();
+
+        builder.Services.AddSingleton<GamingDeptAViewModel>();
+        builder.Services.AddSingleton<GamingDeptAPage>();
+
+        builder.Services.AddSingleton<GamingDeptBViewModel>();
+        builder.Services.AddSingleton<GamingDeptBPage>();
+
 
         return builder.Build();
 	}

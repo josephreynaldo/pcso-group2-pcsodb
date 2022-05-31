@@ -13,4 +13,15 @@ using CommunityToolkit.Mvvm.Input;
     {
         Shell.Current.GoToAsync("//Home");
     }
+
+    [ICommand]
+    public void GoToDepartmentA()
+    {
+        Shell.Current.GoToAsync("//GamingDeptA");
+    }
+    [ICommand]
+    public void GoToDepartmentB()
+    {
+        Shell.Current.GoToAsync("//GamingDeptB");
+    }
 }

@@ -78,8 +78,56 @@
         </Tab>
 
     </TabBar>
-    
-    
+
+    <TabBar
+        Shell.TabBarIsVisible="False"
+        Route="ManagementDeptA">
+        <Tab
+            Title="ManagementDeptA"
+            Icon="home.png">
+            <ShellContent 
+                ContentTemplate="{DataTemplate views:ManagementDeptA}"/>
+        </Tab>
+
+    </TabBar>
+
+    <TabBar
+        Shell.TabBarIsVisible="False"
+        Route="ManagementDeptB">
+        <Tab
+            Title="ManagementDeptB"
+            Icon="home.png">
+            <ShellContent 
+                ContentTemplate="{DataTemplate views:ManagementDeptB}"/>
+        </Tab>
+
+    </TabBar>
+
+    <TabBar
+        Shell.TabBarIsVisible="False"
+        Route="GamingDeptA">
+        <Tab
+            Title="GamingDeptA"
+            Icon="home.png">
+            <ShellContent 
+                ContentTemplate="{DataTemplate views:GamingDeptAPage}"/>
+        </Tab>
+
+    </TabBar>
+
+    <TabBar
+        Shell.TabBarIsVisible="False"
+        Route="GamingDeptB">
+        <Tab
+            Title="GamingDeptB"
+            Icon="home.png">
+            <ShellContent 
+                ContentTemplate="{DataTemplate views:GamingDeptBPage}"/>
+        </Tab>
+
+    </TabBar>
+
+
 
 
 </Shell>

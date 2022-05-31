@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="pcso_group2_pcsodb.View.ManagementDeptA"
+             Routing.Route="ManagementDeptA"
+             Title="Management Sector">
+    <StackLayout>
+        <Label Text="Department A"
+                VerticalOptions="Center" 
+                HorizontalOptions="Center"
+               Margin="20,0,20,20"
+               FontSize="30"/>
+        
+        <Grid Padding="0"
+              VerticalOptions="Center"
+              HorizontalOptions="Center">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0"
+                           Text="Departments:"
+                           FontAttributes="Bold" />
+            <Label Grid.Column="40"
+                           Text="10"
+                           FontAttributes="Bold"/>
+        </Grid>
+        <Grid Padding="0"
+              VerticalOptions="Center"
+              HorizontalOptions="Center">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0"
+                           Text="Project Deliverable:"
+                           FontAttributes="Bold" />
+            <Label Grid.Column="40"
+                           Text="10"
+                           FontAttributes="Bold"/>
+        </Grid>
+    </StackLayout>
+</ContentPage>
