@@ -15,14 +15,17 @@
         <Button
                 Command="{Binding GoToCharityCommand}"
                 FontSize="30"
+                Margin="10"
                 Text="Charity"                 
                 VerticalOptions="Center" 
                 HorizontalOptions="FillAndExpand" />
+                
         <Label></Label>
         
         <Button
             Command="{Binding GoToAdministrativeCommand}"
                 FontSize="30"
+                Margin="10"
                 Text="Administrative"
                 VerticalOptions="Center" 
                 HorizontalOptions="FillAndExpand" />
@@ -31,6 +34,7 @@
         <Button
                Command="{Binding GoToBOSCommand}"
                 FontSize="30"
+                Margin="10"
                 Text="BOS"
                 VerticalOptions="Center" 
                 HorizontalOptions="FillAndExpand" />
@@ -39,6 +43,7 @@
         <Button
             Command="{Binding GoToManagementCommand}"
                 FontSize="30"
+                Margin="10"
                 Text="Management"
                 VerticalOptions="Center" 
                 HorizontalOptions="FillAndExpand" />
@@ -47,6 +52,7 @@
         <Button
             Command="{Binding GoToGamingCommand}"
                 FontSize="30"
+                Margin="10"
                 Text="Gaming"
                 VerticalOptions="Center" 
                 HorizontalOptions="FillAndExpand" />

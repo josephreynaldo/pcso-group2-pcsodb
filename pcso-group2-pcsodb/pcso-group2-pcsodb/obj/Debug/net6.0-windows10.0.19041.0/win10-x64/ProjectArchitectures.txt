@@ -1,1 +1,1 @@
-C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb.csproj;x64
+C:\Users\jperalta\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb.csproj;x64

@@ -21,4 +21,10 @@ public partial class HomeViewModel : BaseViewModel
         Shell.Current.GoToAsync("//CharitySector");
     }
 
+    [ICommand]
+    public void GoToAdministrative()
+    {
+        Shell.Current.GoToAsync("//AdministrativeSector");
+    }
+
 }

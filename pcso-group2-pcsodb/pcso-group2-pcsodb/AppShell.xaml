@@ -30,5 +30,17 @@
 
     </TabBar>
 
+    <TabBar
+        Shell.TabBarIsVisible="False"
+        Route="AdministrativeSector">
+        <Tab
+            Title="Administrative"
+            Icon="home.png">
+            <ShellContent 
+                ContentTemplate="{DataTemplate views:AdministrativeSectorPage}"/>
+        </Tab>
+
+    </TabBar>
+
 
 </Shell>

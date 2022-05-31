@@ -7,45 +7,51 @@ build_property.InvariantGlobalization = false
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = pcso_group2_pcsodb
-build_property.ProjectDir = D:\Repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\
+build_property.ProjectDir = C:\Users\jperalta\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\
 
-[D:/Repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/App.xaml]
+[C:/Users/jperalta/source/repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = pcso_group2_pcsodb.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[D:/Repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/AppShell.xaml]
+[C:/Users/jperalta/source/repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = pcso_group2_pcsodb.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[D:/Repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/MainPage.xaml]
+[C:/Users/jperalta/source/repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = pcso_group2_pcsodb.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[D:/Repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/Resources/Styles/Colors.xaml]
+[C:/Users/jperalta/source/repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = pcso_group2_pcsodb.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[D:/Repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/Resources/Styles/Styles.xaml]
+[C:/Users/jperalta/source/repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = pcso_group2_pcsodb.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[D:/Repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/View/CharitySectorPage.xaml]
+[C:/Users/jperalta/source/repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/View/AdministrativeSectorPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = pcso_group2_pcsodb.View.AdministrativeSectorPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\AdministrativeSectorPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\AdministrativeSectorPage.xaml
+
+[C:/Users/jperalta/source/repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/View/CharitySectorPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = pcso_group2_pcsodb.View.CharitySectorPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\CharitySectorPage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\CharitySectorPage.xaml
 
-[D:/Repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/View/HomePage.xaml]
+[C:/Users/jperalta/source/repos/pcso-group2-pcsodb/pcso-group2-pcsodb/pcso-group2-pcsodb/View/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = pcso_group2_pcsodb.View.HomePage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\HomePage.xaml
