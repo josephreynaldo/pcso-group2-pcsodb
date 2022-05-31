@@ -1,0 +1,11 @@
+C:\Users\PCSO\source\repos\pcso-group2-pcsodb\CoreWebAPI\CoreWebAPI\obj\Release\net6.0\PubTmp\Out\CoreWebAPI.exe
+C:\Users\PCSO\source\repos\pcso-group2-pcsodb\CoreWebAPI\CoreWebAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\PCSO\source\repos\pcso-group2-pcsodb\CoreWebAPI\CoreWebAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\PCSO\source\repos\pcso-group2-pcsodb\CoreWebAPI\CoreWebAPI\obj\Release\net6.0\PubTmp\Out\CoreWebAPI.dll
+C:\Users\PCSO\source\repos\pcso-group2-pcsodb\CoreWebAPI\CoreWebAPI\obj\Release\net6.0\PubTmp\Out\CoreWebAPI.deps.json
+C:\Users\PCSO\source\repos\pcso-group2-pcsodb\CoreWebAPI\CoreWebAPI\obj\Release\net6.0\PubTmp\Out\CoreWebAPI.runtimeconfig.json
+C:\Users\PCSO\source\repos\pcso-group2-pcsodb\CoreWebAPI\CoreWebAPI\obj\Release\net6.0\PubTmp\Out\CoreWebAPI.pdb
+C:\Users\PCSO\source\repos\pcso-group2-pcsodb\CoreWebAPI\CoreWebAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\PCSO\source\repos\pcso-group2-pcsodb\CoreWebAPI\CoreWebAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PCSO\source\repos\pcso-group2-pcsodb\CoreWebAPI\CoreWebAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PCSO\source\repos\pcso-group2-pcsodb\CoreWebAPI\CoreWebAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

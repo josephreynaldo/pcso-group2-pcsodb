@@ -10,6 +10,13 @@
                 HorizontalOptions="Center" />
 
         <Label></Label>
+
+        <Grid RowSpacing="25" RowDefinitions="Auto,*" Padding="{OnPlatform iOS='30,60,30,30', Default='30'}">
+
+        </Grid>
+
+        <Label></Label>
+
         <Button
             Command="{Binding GoToHomeCommand}"
             Margin="20,0,20,20"
