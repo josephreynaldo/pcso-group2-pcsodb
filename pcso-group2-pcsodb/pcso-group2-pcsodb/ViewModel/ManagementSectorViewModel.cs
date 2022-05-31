@@ -5,12 +5,19 @@ using CommunityToolkit.Mvvm.Input;
 
     public partial class ManagementSectorViewModel : BaseViewModel
 {
-    [ObservableProperty]
-    private string username;
-
     [ICommand]
     public void GoToHome()
     {
         Shell.Current.GoToAsync("//Home");
+    }
+    [ICommand]
+    public void GoToDepartmentA()
+    {
+        Shell.Current.GoToAsync("//ManagementDeptA");
+    }
+    [ICommand]
+    public void GoToDepartmentB()
+    {
+        Shell.Current.GoToAsync("//ManagementDeptB");
     }
 }

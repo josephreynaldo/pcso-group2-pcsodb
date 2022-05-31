@@ -5,9 +5,24 @@
              Routing.Route="ManagementSector"
              Title="ManagementSector">
     <StackLayout>
-        <Label Text="Mangement Sector"
+        <Label Text="Management Sector"
                 VerticalOptions="Center" 
-                HorizontalOptions="Center" />
+                HorizontalOptions="Center"
+               FontSize="30"/>
+
+        <Label></Label>
+        <Button
+            Command="{Binding GoToDepartmentACommand}"
+            Margin="20,0,20,20"
+            Text="Department A"
+            FontSize="30"/>
+
+        <Label></Label>
+        <Button
+            Command="{Binding GoToDepartmentBCommand}"
+            Margin="20,0,20,20"
+            Text="Department B"
+            FontSize="30"/>
 
         <Label></Label>
         <Button
