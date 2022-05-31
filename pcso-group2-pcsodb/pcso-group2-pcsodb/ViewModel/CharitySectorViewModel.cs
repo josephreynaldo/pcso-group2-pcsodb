@@ -8,6 +8,9 @@ using CommunityToolkit.Mvvm.Input;
     [ObservableProperty]
     private string username;
 
+
+    
+
     [ICommand]
     public void GoToHome()
     {

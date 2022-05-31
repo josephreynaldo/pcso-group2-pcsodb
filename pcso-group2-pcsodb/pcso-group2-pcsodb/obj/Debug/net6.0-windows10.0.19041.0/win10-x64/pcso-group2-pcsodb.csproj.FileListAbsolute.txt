@@ -37,6 +37,7 @@ C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcs
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipelines.dll
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll

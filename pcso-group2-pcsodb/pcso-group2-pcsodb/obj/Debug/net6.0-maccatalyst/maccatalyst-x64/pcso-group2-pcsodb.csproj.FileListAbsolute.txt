@@ -22,6 +22,7 @@ C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcs
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.dll
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Primitives.dll
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
+C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\Newtonsoft.Json.dll
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\System.IO.Pipelines.dll
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\Microsoft.CSharp.dll
 C:\Users\PCSO\source\repos\pcso-group2-pcsodb\pcso-group2-pcsodb\pcso-group2-pcsodb\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.Core.dll
