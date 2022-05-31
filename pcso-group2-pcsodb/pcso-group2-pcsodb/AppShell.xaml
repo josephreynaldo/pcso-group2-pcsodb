@@ -41,6 +41,40 @@
         </Tab>
 
     </TabBar>
+    <TabBar
+        Shell.TabBarIsVisible="False"
+        Route="BranchOperationSector">
+        <Tab
+            Title="Branch Operation Sector"
+            Icon="home.png">
+            <ShellContent 
+                ContentTemplate="{DataTemplate views:BranchOperationSectorPage}"/>
+        </Tab>
+
+    </TabBar>
+
+    <TabBar
+        Shell.TabBarIsVisible="False"
+        Route="ManagementSector">
+        <Tab
+            Title="Management Sector"
+            Icon="home.png">
+            <ShellContent 
+                ContentTemplate="{DataTemplate views:ManagementSectorPage}"/>
+        </Tab>
+
+    </TabBar>
+    <TabBar
+        Shell.TabBarIsVisible="False"
+        Route="GamingSector">
+        <Tab
+            Title="Gaming Sector"
+            Icon="home.png">
+            <ShellContent 
+                ContentTemplate="{DataTemplate views:GamingSectorPage}"/>
+        </Tab>
+
+    </TabBar>
 
 
 </Shell>
