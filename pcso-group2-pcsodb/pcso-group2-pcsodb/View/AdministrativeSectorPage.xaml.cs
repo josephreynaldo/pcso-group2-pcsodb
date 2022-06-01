@@ -11,4 +11,5 @@ public partial class AdministrativeSectorPage : ContentPage
         // I can resolve it in constructor because I did register
         BindingContext = administrativeSectorViewModel;
     }
+
 }

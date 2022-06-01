@@ -16,6 +16,7 @@
           "Microsoft.AspNetCore.SignalR.Client": "6.0.5",
           "Microsoft.Maui.Dependencies": "6.0.312",
           "Microsoft.Maui.Extensions": "6.0.312",
+          "Microsoft.Toolkit.Uwp.UI.Controls": "7.1.2",
           "Microsoft.Windows.SDK.BuildTools": "10.0.22000.194",
           "Newtonsoft.Json": "13.0.1",
           "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "6.0.5",
@@ -1190,6 +1191,7 @@
           }
         }
       },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {},
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {},
       "Microsoft.WindowsAppSDK/1.0.3": {
         "dependencies": {
@@ -1465,6 +1467,13 @@
       "sha512": "sha512-nep13Cz/KYna9hp6GMVgzGpOc0fAG6+A2T2en3PScD2309FuhjxBmjaanutDMm+mQQuVv5a+BM2+XVzdVyJNcw==",
       "path": "microsoft.maui.graphics.win2d.winui.desktop/6.0.300",
       "hashPath": "microsoft.maui.graphics.win2d.winui.desktop.6.0.300.nupkg.sha512"
+    },
+    "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lZNwaqa8j0fCf7Pf4UX074YXPrcizxbyyfoTIlOp99dyInDsptyNNovwMK4U0/2TRo38g5df+cgfBzdpKKGTig==",
+      "path": "microsoft.toolkit.uwp.ui.controls/7.1.2",
+      "hashPath": "microsoft.toolkit.uwp.ui.controls.7.1.2.nupkg.sha512"
     },
     "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
       "type": "package",

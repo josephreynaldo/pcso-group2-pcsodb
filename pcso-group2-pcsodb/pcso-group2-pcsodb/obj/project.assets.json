@@ -306,6 +306,9 @@
           "lib/net6.0-android30.0/Microsoft.Maui.Graphics.dll": {}
         }
       },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
+      },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
@@ -2061,6 +2064,9 @@
         "runtime": {
           "lib/net6.0-android30.0/Microsoft.Maui.Graphics.dll": {}
         }
+      },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
       },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
@@ -3818,6 +3824,9 @@
           "lib/net6.0-android30.0/Microsoft.Maui.Graphics.dll": {}
         }
       },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
+      },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
@@ -5573,6 +5582,9 @@
         "runtime": {
           "lib/net6.0-android30.0/Microsoft.Maui.Graphics.dll": {}
         }
+      },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
       },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
@@ -7330,6 +7342,9 @@
           "lib/net6.0-android30.0/Microsoft.Maui.Graphics.dll": {}
         }
       },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
+      },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
@@ -9085,6 +9100,9 @@
         "runtime": {
           "lib/net6.0-android30.0/Microsoft.Maui.Graphics.dll": {}
         }
+      },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
       },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
@@ -10842,6 +10860,9 @@
           "lib/net6.0-android30.0/Microsoft.Maui.Graphics.dll": {}
         }
       },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
+      },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
@@ -12598,6 +12619,9 @@
           "lib/net6.0-android30.0/Microsoft.Maui.Graphics.dll": {}
         }
       },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
+      },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
@@ -14338,6 +14362,9 @@
           "lib/net6.0-ios13.6/Microsoft.Maui.Graphics.dll": {}
         }
       },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
+      },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
@@ -14693,6 +14720,9 @@
         "runtime": {
           "lib/net6.0-ios13.6/Microsoft.Maui.Graphics.dll": {}
         }
+      },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
       },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
@@ -15050,6 +15080,9 @@
           "lib/net6.0-ios13.6/Microsoft.Maui.Graphics.dll": {}
         }
       },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
+      },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
@@ -15405,6 +15438,9 @@
         "runtime": {
           "lib/net6.0-ios13.6/Microsoft.Maui.Graphics.dll": {}
         }
+      },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
       },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
@@ -15762,6 +15798,9 @@
           "lib/net6.0-ios13.6/Microsoft.Maui.Graphics.dll": {}
         }
       },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
+      },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
@@ -16117,6 +16156,9 @@
         "runtime": {
           "lib/net6.0-ios13.6/Microsoft.Maui.Graphics.dll": {}
         }
+      },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
       },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
@@ -16474,6 +16516,9 @@
           "lib/net6.0-ios13.6/Microsoft.Maui.Graphics.dll": {}
         }
       },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
+      },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
@@ -16829,6 +16874,9 @@
         "runtime": {
           "lib/net6.0-ios13.6/Microsoft.Maui.Graphics.dll": {}
         }
+      },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
       },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
@@ -17186,6 +17234,9 @@
           "lib/net6.0-maccatalyst13.5/Microsoft.Maui.Graphics.dll": {}
         }
       },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
+      },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
@@ -17541,6 +17592,9 @@
         "runtime": {
           "lib/net6.0-maccatalyst13.5/Microsoft.Maui.Graphics.dll": {}
         }
+      },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
       },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
@@ -17898,6 +17952,9 @@
           "lib/net6.0-maccatalyst13.5/Microsoft.Maui.Graphics.dll": {}
         }
       },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
+      },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
@@ -18253,6 +18310,9 @@
         "runtime": {
           "lib/net6.0-maccatalyst13.5/Microsoft.Maui.Graphics.dll": {}
         }
+      },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
       },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
@@ -18610,6 +18670,9 @@
           "lib/net6.0-maccatalyst13.5/Microsoft.Maui.Graphics.dll": {}
         }
       },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
+      },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
@@ -18965,6 +19028,9 @@
         "runtime": {
           "lib/net6.0-maccatalyst13.5/Microsoft.Maui.Graphics.dll": {}
         }
+      },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
       },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
@@ -19322,6 +19388,9 @@
           "lib/net6.0-maccatalyst13.5/Microsoft.Maui.Graphics.dll": {}
         }
       },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
+      },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
@@ -19677,6 +19746,9 @@
         "runtime": {
           "lib/net6.0-maccatalyst13.5/Microsoft.Maui.Graphics.dll": {}
         }
+      },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
       },
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
@@ -20075,6 +20147,9 @@
         "runtime": {
           "lib/net6.0-windows10.0.18362/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {}
         }
+      },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
       },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
@@ -20505,6 +20580,9 @@
           "lib/net6.0-windows10.0.18362/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {}
         }
       },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
+      },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
         "build": {
@@ -20919,6 +20997,9 @@
         "runtime": {
           "lib/net6.0-windows10.0.18362/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {}
         }
+      },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
       },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
@@ -21335,6 +21416,9 @@
           "lib/net6.0-windows10.0.18362/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {}
         }
       },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
+      },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
         "build": {
@@ -21749,6 +21833,9 @@
         "runtime": {
           "lib/net6.0-windows10.0.18362/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {}
         }
+      },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
       },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
@@ -22165,6 +22252,9 @@
           "lib/net6.0-windows10.0.18362/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {}
         }
       },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
+      },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
         "build": {
@@ -22579,6 +22669,9 @@
         "runtime": {
           "lib/net6.0-windows10.0.18362/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {}
         }
+      },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
       },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
@@ -22997,6 +23090,9 @@
         "runtime": {
           "lib/net6.0-windows10.0.18362/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {}
         }
+      },
+      "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+        "type": "package"
       },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
@@ -23668,6 +23764,21 @@
         "lib/net6.0-windows10.0.18362/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.pdb",
         "microsoft.maui.graphics.win2d.winui.desktop.6.0.300.nupkg.sha512",
         "microsoft.maui.graphics.win2d.winui.desktop.nuspec"
+      ]
+    },
+    "Microsoft.Toolkit.Uwp.UI.Controls/7.1.2": {
+      "sha512": "lZNwaqa8j0fCf7Pf4UX074YXPrcizxbyyfoTIlOp99dyInDsptyNNovwMK4U0/2TRo38g5df+cgfBzdpKKGTig==",
+      "type": "package",
+      "path": "microsoft.toolkit.uwp.ui.controls/7.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "License.md",
+        "ReadMe.txt",
+        "ThirdPartyNotices.txt",
+        "microsoft.toolkit.uwp.ui.controls.7.1.2.nupkg.sha512",
+        "microsoft.toolkit.uwp.ui.controls.nuspec"
       ]
     },
     "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
@@ -26406,6 +26517,7 @@
       "Microsoft.AspNetCore.SignalR.Client >= 6.0.5",
       "Microsoft.Maui.Dependencies >= 6.0.312",
       "Microsoft.Maui.Extensions >= 6.0.312",
+      "Microsoft.Toolkit.Uwp.UI.Controls >= 7.1.2",
       "Newtonsoft.Json >= 13.0.1"
     ],
     "net6.0-ios15.4": [
@@ -26416,6 +26528,7 @@
       "Microsoft.AspNetCore.SignalR.Client >= 6.0.5",
       "Microsoft.Maui.Dependencies >= 6.0.312",
       "Microsoft.Maui.Extensions >= 6.0.312",
+      "Microsoft.Toolkit.Uwp.UI.Controls >= 7.1.2",
       "Newtonsoft.Json >= 13.0.1",
       "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
     ],
@@ -26427,6 +26540,7 @@
       "Microsoft.AspNetCore.SignalR.Client >= 6.0.5",
       "Microsoft.Maui.Dependencies >= 6.0.312",
       "Microsoft.Maui.Extensions >= 6.0.312",
+      "Microsoft.Toolkit.Uwp.UI.Controls >= 7.1.2",
       "Newtonsoft.Json >= 13.0.1",
       "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
     ],
@@ -26438,6 +26552,7 @@
       "Microsoft.AspNetCore.SignalR.Client >= 6.0.5",
       "Microsoft.Maui.Dependencies >= 6.0.312",
       "Microsoft.Maui.Extensions >= 6.0.312",
+      "Microsoft.Toolkit.Uwp.UI.Controls >= 7.1.2",
       "Microsoft.Windows.SDK.BuildTools >= 10.0.22000.194",
       "Newtonsoft.Json >= 13.0.1"
     ]
@@ -26533,6 +26648,10 @@
             "version": "[6.0.312, )",
             "autoReferenced": true
           },
+          "Microsoft.Toolkit.Uwp.UI.Controls": {
+            "target": "Package",
+            "version": "[7.1.2, )"
+          },
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.1, )"
@@ -26614,6 +26733,10 @@
             "version": "[6.0.312, )",
             "autoReferenced": true
           },
+          "Microsoft.Toolkit.Uwp.UI.Controls": {
+            "target": "Package",
+            "version": "[7.1.2, )"
+          },
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.1, )"
@@ -26685,6 +26808,10 @@
             "target": "Package",
             "version": "[6.0.312, )",
             "autoReferenced": true
+          },
+          "Microsoft.Toolkit.Uwp.UI.Controls": {
+            "target": "Package",
+            "version": "[7.1.2, )"
           },
           "Newtonsoft.Json": {
             "target": "Package",
@@ -26758,6 +26885,10 @@
             "target": "Package",
             "version": "[6.0.312, )",
             "autoReferenced": true
+          },
+          "Microsoft.Toolkit.Uwp.UI.Controls": {
+            "target": "Package",
+            "version": "[7.1.2, )"
           },
           "Microsoft.Windows.SDK.BuildTools": {
             "suppressParent": "All",
