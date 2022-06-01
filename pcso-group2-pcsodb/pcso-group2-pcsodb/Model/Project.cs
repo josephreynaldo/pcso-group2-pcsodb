@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace pcso_group2_pcsodb.Model
 {
-    internal class Project
+    public partial class Project
     {
         public int id { get; set; }
 
