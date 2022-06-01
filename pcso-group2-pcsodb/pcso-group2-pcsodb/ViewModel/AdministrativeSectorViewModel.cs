@@ -44,6 +44,7 @@ public partial class AdministrativeSectorViewModel : BaseViewModel
             catch(Exception e)
             {
                 Console.WriteLine( e.Message);
+
             }
             
 
