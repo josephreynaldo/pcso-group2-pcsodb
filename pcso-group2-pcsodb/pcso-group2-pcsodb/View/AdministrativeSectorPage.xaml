@@ -4,17 +4,51 @@
              x:Class="pcso_group2_pcsodb.View.AdministrativeSectorPage"
              Routing.Route="AdministrativeSector"
              Title="AdministrativeSector">
-    <StackLayout>
+    <StackLayout Spacing="10">
         <Label Text="Administrative Sector"
                 VerticalOptions="Center" 
                 HorizontalOptions="Center" />
 
         <Label></Label>
+        <Rectangle Fill="Aquamarine"
+            Margin="20,0,20,.5"        
+           WidthRequest="150"
+           HeightRequest="50"
+           Stroke="Black"
+           StrokeThickness="3"
+           HorizontalOptions="Start" />
+
+        <Rectangle
+            Fill="Aquamarine"
+            Margin="20,0,20,.5"        
+           WidthRequest="150"
+           HeightRequest="50"
+           Stroke="Black"
+           StrokeThickness="3"
+           HorizontalOptions="Start" />
+
+        <Rectangle Fill="Aquamarine"
+            Margin="20,0,20,.5"        
+           WidthRequest="150"
+           HeightRequest="50"
+           Stroke="Black"
+           StrokeThickness="3"
+           HorizontalOptions="Start" />
+
+        <Rectangle Fill="Aquamarine"
+            Margin="20,0,20,.5"        
+           WidthRequest="150"
+           HeightRequest="50"
+           Stroke="Black"
+           StrokeThickness="3"
+           HorizontalOptions="End" />
+
         <Button
             Command="{Binding GoToHomeCommand}"
             Margin="20,0,20,20"
             Text="Go ToHome"
             FontSize="30"/>
-        
+
     </StackLayout>
+
 </ContentPage>

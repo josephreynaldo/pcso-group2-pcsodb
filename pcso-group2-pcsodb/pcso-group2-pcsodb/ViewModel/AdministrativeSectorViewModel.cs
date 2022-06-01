@@ -14,7 +14,7 @@ public partial class AdministrativeSectorViewModel : BaseViewModel
     [ICommand]
     public void GoToHome()
     {
-        //Shell.Current.GoToAsync("//Home");
+         Shell.Current.GoToAsync("//Home");
          RunAsyncBlogs();
     }
 
@@ -50,4 +50,5 @@ public partial class AdministrativeSectorViewModel : BaseViewModel
 
         }
     }
+
 }
