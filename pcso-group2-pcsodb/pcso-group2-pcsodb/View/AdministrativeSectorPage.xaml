@@ -6,163 +6,106 @@
              Title="AdministrativeSector">
 
     <StackLayout>
-        <Label  Text="Management Sector"
-                VerticalOptions="Center"
-                HorizontalOptions="Center"
-                FontSize="25"
-                FontAttributes="Bold"/>
-
-
-
-        <Grid   Padding="0"
-                VerticalOptions="Center"
-                HorizontalOptions="Center"
-                RowDefinitions="30,Auto,10"
-                ColumnDefinitions="*,*">
-
-
-            <Label Grid.Row="0"
-                    Grid.Column="0"
-                    Text="Departments:"
-                    FontAttributes="Bold"
-                    FontSize="20"/>             
-            <Label Grid.Row="0"
-                    Grid.Column="1"
-                    Text="9"
-                    FontAttributes="Bold"
-                    FontSize="20"/>
-
-
-
-            <Label Grid.Row="1"
-                    Grid.Column="0"
-                    Text="Project Deliverable:"
-                    FontAttributes="Bold"
-                    FontSize="20"/>
-
-
-
-            <Label Grid.Row="1"
-                    Grid.Column="1"
-                    Text="56"
-                    FontAttributes="Bold"
-                    FontSize="20"/>
-
-
-
+        <Label Text="Management Sector"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"
+               FontSize="25"
+               FontAttributes="Bold"/>
+        <Grid  Padding="0"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"
+               RowDefinitions="30,Auto,10"
+               ColumnDefinitions="*,*">
+        <Label Grid.Row="0"
+               Grid.Column="0"
+               Text="Departments:"
+               FontAttributes="Bold"
+               FontSize="20"/>
+        <Label Grid.Row="0"
+               Grid.Column="1"
+               Text="9"
+               FontAttributes="Bold"
+               FontSize="20"/>
+        <Label Grid.Row="1"
+               Grid.Column="0"
+               Text="Project Deliverable:"
+               FontAttributes="Bold"
+               FontSize="20"/>
+        <Label Grid.Row="1"
+               Grid.Column="1"
+               Text="  56"
+               FontAttributes="Bold"
+               FontSize="20"/>
         </Grid>
-
-
 
         <Label Text="Project Completion Percentage"
-                VerticalOptions="Center"
-                HorizontalOptions="Center"
-                FontSize="25"
-                FontAttributes="Bold"/>
-
-
-
-        <Grid Padding="0"
-                VerticalOptions="Center"
-                HorizontalOptions="Center"
-                RowDefinitions="30,Auto,*,*"
-                ColumnDefinitions="*,*">
-
-
-
-
+               VerticalOptions="Center"
+               HorizontalOptions="Center"
+               FontSize="25"
+               FontAttributes="Bold"/>
+        <Grid  Padding="0"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"
+               RowDefinitions="30,Auto,*,*"
+               ColumnDefinitions="*,*">
             <Label Grid.Row="0"
-                    Grid.Column="0"
-                    Text="First Quarter:"
-                    FontAttributes="Bold"
-                    FontSize="20"/>
-               <Label Grid.Row="0"
-                    Grid.Column="1"
-                    Text="30%"
-                    FontAttributes="Bold"
-                    FontSize="20"/>
-
-
-
+               Grid.Column="0"
+               Text="First Quarter:"
+               FontAttributes="Bold"
+               FontSize="20"/>
+            <Label Grid.Row="0"
+               Grid.Column="1"
+               Text="  30%"
+               FontAttributes="Bold"
+               FontSize="20"/>
             <Label Grid.Row="1"
-                    Grid.Column="0"
-                    Text="Second Quarter:"
-                    FontAttributes="Bold"
-                    FontSize="20"/>
-
-
-
+               Grid.Column="0"
+               Text="Second Quarter:"
+               FontAttributes="Bold"
+               FontSize="20"/>
             <Label Grid.Row="1"
-                    Grid.Column="1"
-                    Text="50%"
-                    FontAttributes="Bold"
-                    FontSize="20"/>         
-
-
-
+               Grid.Column="1"
+               Text="  50%"
+               FontAttributes="Bold"
+               FontSize="20"/>
             <Label Grid.Row="2"
-                    Grid.Column="0"
-                    Text="Third Quarter:"
-                    FontAttributes="Bold"
-                    FontSize="20"/>
-
-
-
+               Grid.Column="0"
+               Text="Third Quarter:"
+               FontAttributes="Bold"
+               FontSize="20"/>
             <Label Grid.Row="2"
-Grid.Column="1"
-Text="50%"
-FontAttributes="Bold"
-FontSize="20"/>
-
-
-
+                   Grid.Column="1"
+                   Text="  50%"
+                   FontAttributes="Bold"
+                   FontSize="20"/>
             <Label Grid.Row="3"
-Grid.Column="0"
-Text="Fourth Quarter:"
-FontAttributes="Bold"
-FontSize="20"/>
-
-
-
+                   Grid.Column="0"
+                   Text="Fourth Quarter:"
+                   FontAttributes="Bold"
+                   FontSize="20"/>
             <Label Grid.Row="3"
-Grid.Column="1"
-Text="99%"
-FontAttributes="Bold"
-FontSize="20"/>
-
+                   Grid.Column="1"
+                   Text="  99%"
+                   FontAttributes="Bold"
+                   FontSize="20"/>
         </Grid>
-
-
-
         <Label>
         </Label>
-
-
-
         <Label Text="Meeting Schedules"
-VerticalOptions="Center"
-HorizontalOptions="Center"
-FontSize="25"
-FontAttributes="Bold"/>
-
-
-
+                     VerticalOptions="Center"
+                     HorizontalOptions="Center"
+                     FontSize="25"
+                     FontAttributes="Bold"/>
         <Label>
         </Label>
-
-
-
         <Grid>
         </Grid>
-
-
-
         <Label></Label>
         <Button
-Command="{Binding GoToHomeCommand}"
-Margin="20,0,20,20"
-Text="Go ToHome"
-FontSize="30"/>
+        Command="{Binding GoToHomeCommand}"
+        Margin="20,0,20,20"
+        Text="Go ToHome"
+        FontSize="30"/>
 
     </StackLayout>
 

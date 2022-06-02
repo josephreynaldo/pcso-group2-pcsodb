@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CoreWebAPI",
+    "\\pcso-group2-pcsodb"
   ],
+  "SelectedNode": "\\pcso-group2-pcsodb\\pcso-group2-pcsodb.sln",
   "PreviewInSolutionExplorer": false
 }
