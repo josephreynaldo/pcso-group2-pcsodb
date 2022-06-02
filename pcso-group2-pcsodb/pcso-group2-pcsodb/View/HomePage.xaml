@@ -3,31 +3,20 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="pcso_group2_pcsodb.View.HomePage"
              Title="PCSO Dashboard for 2022">
-    <StackLayout>
+    <VerticalStackLayout Spacing="10" Padding="20">
         <Label 
                 FontSize="30"
                 Text="PCSO Sectors"
                 VerticalOptions="Center" 
                 HorizontalOptions="Center" />
         <Label></Label>
-        
-        
         <Button
-                Command="{Binding GoToCharityCommand}"
+            Command="{Binding GoToGamingCommand}"
                 FontSize="30"
-                Text="Charity"                 
+                Text="Gaming"
                 VerticalOptions="Center" 
                 HorizontalOptions="FillAndExpand" />
         <Label></Label>
-        
-        <Button
-            Command="{Binding GoToAdministrativeCommand}"
-                FontSize="30"
-                Text="Administrative"
-                VerticalOptions="Center" 
-                HorizontalOptions="FillAndExpand" />
-        <Label></Label>
-
         <Button
                Command="{Binding GoToBOSCommand}"
                 FontSize="30"
@@ -35,7 +24,13 @@
                 VerticalOptions="Center" 
                 HorizontalOptions="FillAndExpand" />
         <Label></Label>
-
+        <Button
+                Command="{Binding GoToCharityCommand}"
+                FontSize="30"
+                Text="Charity"                 
+                VerticalOptions="Center" 
+                HorizontalOptions="FillAndExpand" />
+        <Label></Label>
         <Button
             Command="{Binding GoToManagementCommand}"
                 FontSize="30"
@@ -45,11 +40,12 @@
         <Label></Label>
 
         <Button
-            Command="{Binding GoToGamingCommand}"
+            Command="{Binding GoToAdministrativeCommand}"
                 FontSize="30"
-                Text="Gaming"
+                Text="Administrative"
                 VerticalOptions="Center" 
                 HorizontalOptions="FillAndExpand" />
+        <Label></Label>
 
-    </StackLayout>
+    </VerticalStackLayout>
 </ContentPage>

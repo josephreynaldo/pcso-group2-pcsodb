@@ -2,9 +2,9 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="pcso_group2_pcsodb.View.AdministrativeSectorPage"
+             xmlns:model="clr-namespace:pcso_group2_pcsodb.Model"
              Routing.Route="AdministrativeSector"
              Title="AdministrativeSector">
-
     <StackLayout>
         <Label Text="Management Sector"
                VerticalOptions="Center"
@@ -23,7 +23,7 @@
                FontSize="20"/>
         <Label Grid.Row="0"
                Grid.Column="1"
-               Text="9"
+               Text="{Binding ColumnCount}"
                FontAttributes="Bold"
                FontSize="20"/>
         <Label Grid.Row="1"

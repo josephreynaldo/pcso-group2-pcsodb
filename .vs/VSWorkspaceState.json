@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\CoreWebAPI",
-    "\\pcso-group2-pcsodb"
+    "\\CoreWebAPI\\CoreWebAPI",
+    "\\CoreWebAPI\\CoreWebAPI\\obj",
+    "\\CoreWebAPI\\CoreWebAPI\\obj\\Debug",
+    "\\CoreWebAPI\\CoreWebAPI\\obj\\Release",
+    "\\CoreWebAPI\\CoreWebAPI\\obj\\Release\\net6.0"
   ],
-  "SelectedNode": "\\pcso-group2-pcsodb\\pcso-group2-pcsodb.sln",
+  "SelectedNode": "\\CoreWebAPI\\CoreWebAPI\\obj\\Release\\net6.0",
   "PreviewInSolutionExplorer": false
 }
