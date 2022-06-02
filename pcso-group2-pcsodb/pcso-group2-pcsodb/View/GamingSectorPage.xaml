@@ -6,12 +6,14 @@
              Title="GamingSector">
     <StackLayout>
         <StackLayout>
-        <Label Text="Management Sector"
+            <Label Text="Gaming Sector"
                VerticalOptions="Center"
                HorizontalOptions="Center"
                FontSize="25"
                FontAttributes="Bold"/>
-        <Grid  Padding="0"
+            <Label>
+            </Label>
+            <Grid  Padding="0"
                VerticalOptions="Center"
                HorizontalOptions="Center"
                RowDefinitions="30,Auto,10"
@@ -43,12 +45,15 @@
                HorizontalOptions="Center"
                FontSize="25"
                FontAttributes="Bold"/>
-        <Grid  Padding="0"
+            <Label>
+            </Label>
+            <Grid  Padding="0"
                VerticalOptions="Center"
                HorizontalOptions="Center"
                RowDefinitions="30,Auto,*,*"
                ColumnDefinitions="*,*">
-            <Label Grid.Row="0"
+                <Label></Label>
+                <Label Grid.Row="0"
                Grid.Column="0"
                Text="First Quarter:"
                FontAttributes="Bold"
@@ -103,7 +108,7 @@
             <Label></Label>
         </StackLayout>
 
-        <Button
+        <!--<Button
             Command="{Binding GoToDepartmentACommand}"
             Margin="20,0,20,20"
             Text="Department A"
@@ -114,7 +119,7 @@
             Command="{Binding GoToDepartmentBCommand}"
             Margin="20,0,20,20"
             Text="Department B"
-            FontSize="30"/>
+            FontSize="30"/>-->
 
         <Button
             Command="{Binding GoToHomeCommand}"
