@@ -1,7 +1,17 @@
 namespace pcso_group2_pcsodb.ViewModel;
-
-using CommunityToolkit.Mvvm.ComponentModel;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Net.Http.Headers;
 using CommunityToolkit.Mvvm.Input;
+using System.Collections.ObjectModel;
+using pcso_group2_pcsodb.Model;
+using pcso_group2_pcsodb.Services;
+using System.Diagnostics;
+using CommunityToolkit.Mvvm.ComponentModel;
+using System.Text.Json;
 
     public partial class GamingSectorViewModel : BaseViewModel
 {
@@ -24,4 +34,5 @@ using CommunityToolkit.Mvvm.Input;
     {
         Shell.Current.GoToAsync("//GamingDeptB");
     }
+ 
 }
