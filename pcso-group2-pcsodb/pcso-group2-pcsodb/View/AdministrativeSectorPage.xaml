@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="pcso_group2_pcsodb.View.AdministrativeSectorPage"
+             
+             xmlns:model="clr-namespace:pcso_group2_pcsodb.Model"
+             xmlns:viewmodel="clr-namespace:pcso_group2_pcsodb.ViewModel"
+             
+             x:DataType="viewmodel:AdministrativeSectorViewModel"
+             x:Class="pcso_group2_pcsodb.View.AdministrativeSectorPage"             
              Routing.Route="AdministrativeSector"
              Title="AdministrativeSectorPage">
     <StackLayout>
-        <Label Text="Administrative Sector"
-                VerticalOptions="Center" 
-                HorizontalOptions="Center" />
-
-        <Label></Label>
+        <CollectionView BackgroundColor="Transparent"
+                        Grid.ColumnSpan="2"
+                        ItemsSource="{Binding Departments}"
+                           SelectionMode="None">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="model:Department">
+                    <Grid Padding="0"
+                                  ColumnDefinitions="75,*">
+                        <Label Text="{Binding name}"
+                                           FontSize="18"
+                                           FontAttributes="Bold"/>
+                        <Label Text="{Binding numberOfProject}"
+                                           FontSize="18"
+                                           FontAttributes="Bold"/>
+                        <Label Text="{Binding percentageProj}"
+                                           FontSize="20"/>
+                        <Label Text="{Binding remarks}"
+                                           FontSize="20"/>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        
         <Button
             Command="{Binding GoToHomeCommand}"
             Margin="20,0,20,20"

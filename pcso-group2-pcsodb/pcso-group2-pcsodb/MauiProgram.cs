@@ -6,6 +6,7 @@ using CommunityToolkit.Maui.Core;
 using CommunityToolkit.Maui.Markup;
 
 
+using pcso_group2_pcsodb.Services;
 using pcso_group2_pcsodb.View;
 using pcso_group2_pcsodb.ViewModel;
 
@@ -31,6 +32,10 @@ public static class MauiProgram
 				fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
 			});
 
+
+
+        builder.Services.AddSingleton<DepartmentService>();
+        
 
         builder.Services.AddSingleton<HomeViewModel>();
         builder.Services.AddSingleton<HomePage>();

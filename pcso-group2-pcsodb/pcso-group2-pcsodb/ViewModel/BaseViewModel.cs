@@ -1,9 +1,21 @@
-namespace pcso_group2_pcsodb.ViewModel;
-
-
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using CommunityToolkit.Mvvm.ComponentModel;
-
-
-public class BaseViewModel : ObservableObject
+namespace pcso_group2_pcsodb.ViewModel
 {
+    public partial class BaseViewModel : ObservableObject
+    {
+        public BaseViewModel()
+        {
+        }
+        [ObservableProperty]
+        [AlsoNotifyChangeFor(nameof(IsNotBusy))]
+        bool isBusy;
+        [ObservableProperty]
+        string title;
+        public bool IsNotBusy => !IsBusy;
+    }
 }
