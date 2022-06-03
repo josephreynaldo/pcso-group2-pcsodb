@@ -14,7 +14,7 @@ public partial class AdministrativeSectorViewModel : BaseViewModel
     [ICommand]
     public void GoToHome()
     {
-         Shell.Current.GoToAsync("//Home");
+        // Shell.Current.GoToAsync("//Home");
          RunAsyncBlogs();
     }
 
@@ -29,7 +29,7 @@ public partial class AdministrativeSectorViewModel : BaseViewModel
             // HTTP GET
             try
             {
-                HttpResponseMessage response = await client.GetAsync("api/Sectors");
+                HttpResponseMessage response = await client.GetAsync("api/Departments/Department/" + 5);
                 if (response.IsSuccessStatusCode)
                 {
                     var userJson = response.Content.ReadAsStringAsync().Result;
